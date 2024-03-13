@@ -10,6 +10,7 @@
 <thead>
 <tr>
 <th>IDE</th>
+<th>IDE</th>
 <th>Linguagens</th>
 <th>Marcação</th>
 <th>Banco de Dados</th>
@@ -19,6 +20,7 @@
 <tbody>
 <tr>
 <td><a href="https://code.visualstudio.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" title="VS Code" style="max-width: 100%;"></a></td>
+<td><a href="https://www.jetbrains.com/pt-br/pycharm/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" title="Pycharm" style="max-width: 100%;"></a></td>
 <td><a href="https://www.python.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python" style="max-width: 100%;"></a><a href="https://go.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="30" title="Go" style="max-width: 100%;"></a><a href="https://www.linux.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" title="Linux" style="max-width: 100%;"></a></td>
 <td><a href="https://html.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" title="HTML" style="max-width: 100%;"></a><a href="https://www.css3.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" title="CSS" style="max-width: 100%;"></a></td>
 <td><a href="https://www.mysql.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" style="max-width: 100%;"></a><a href="https://www.postgresql.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" style="max-width: 100%;"></a></td>
