@@ -6,28 +6,27 @@
 
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🧠 Conhecimentos:</h3><a id="user-content--conhecimentos" class="anchor" aria-label="Permalink: 🧠 Conhecimentos:" href="#-conhecimentos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-<table>
-<thead>
-<tr>
-<th>IDE</th>
-<th>Linguagens</th>
-<th>Marcação</th>
-<th>Banco de Dados</th>
-<th>APIs</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://code.visualstudio.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" title="VS Code" style="max-width: 100%;"></a></td>
-<td><a href="https://www.jetbrains.com/pt-br/pycharm/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" title="Pycharm" style="max-width: 100%;"></a></td>
-<td><a href="https://www.python.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python" style="max-width: 100%;"></a><a href="https://go.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="30" title="Go" style="max-width: 100%;"></a><a href="https://www.linux.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" title="Linux" style="max-width: 100%;"></a></td>
-<td><a href="https://html.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" title="HTML" style="max-width: 100%;"></a><a href="https://www.css3.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" title="CSS" style="max-width: 100%;"></a></td>
-<td><a href="https://www.mysql.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" style="max-width: 100%;"></a><a href="https://www.postgresql.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" style="max-width: 100%;"></a></td>
-<td><a href="https://openai.com/blog/openai-api" rel="nofollow"><img src="https://camo.githubusercontent.com/ad3994decf6481fe5e2ad9bbeabfc6b7dd0f2bb39ba4d8e145893bb4a4bebb67/68747470733a2f2f6c6f676f77696b2e636f6d2f636f6e74656e742f75706c6f6164732f696d616765732f6f70656e6169353030322e6a7067" width="30" title="OpenAI" data-canonical-src="https://logowik.com/content/uploads/images/openai5002.jpg" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
+<table border="1">
+    <thead>
+        <tr>
+            <th>IDE</th>
+            <th>Linguagens</th>
+            <th>Marcação</th>
+            <th>Banco de Dados</th>
+            <th>APIs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://code.visualstudio.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" title="VS Code" style="max-width: 100%;"></a></td>
+            <td><a href="https://www.jetbrains.com/pt-br/pycharm/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" title="Pycharm" style="max-width: 100%;"></a></td>
+            <td><a href="https://www.python.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python" style="max-width: 100%;"></a><a href="https://go.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="30" title="Go" style="max-width: 100%;"></a><a href="https://www.linux.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" title="Linux" style="max-width: 100%;"></a></td>
+            <td><a href="https://html.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" title="HTML" style="max-width: 100%;"></a><a href="https://www.css3.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" title="CSS" style="max-width: 100%;"></a></td>
+            <td><a href="https://www.mysql.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" style="max-width: 100%;"></a><a href="https://www.postgresql.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" style="max-width: 100%;"></a></td>
+            <td><a href="https://openai.com/blog/openai-api" rel="nofollow"><img src="https://camo.githubusercontent.com/ad3994decf6481fe5e2ad9bbeabfc6b7dd0f2bb39ba4d8e145893bb4a4bebb67/68747470733a2f2f6c6f676f77696b2e636f6d2f636f6e74656e742f75706c6f6164732f696d616765732f6f70656e6169353030322e6a7067" width="30" title="OpenAI" data-canonical-src="https://logowik.com/content/uploads/images/openai5002.jpg" style="max-width: 100%;"></a></td>
+        </tr>
+    </tbody>
 </table>
-<table>
 
 
 
