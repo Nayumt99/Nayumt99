@@ -41,7 +41,7 @@
 </tbody>
 </table>
 
-    <table>
+<table>
 <thead>
 <tr>
 <th>Bootcamps Concluidos</th>
