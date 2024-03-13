@@ -53,7 +53,7 @@
 <tr>
 <td><a href="https://www.dio.me/certificate/ED5E5FE8/share" rel="nofollow"><img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" width="40" style="max-width: 100%;"></a></td>
 <td><a href="https://www.dio.me/certificate/5E79ABF1/share" rel="nofollow"><img src="https://hermes.dio.me/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" width="50" style="max-width: 100%;"></a><a href="https://www.dio.me/certificate/BAOTDLW0/share" rel="nofollow"><img src="https://hermes.dio.me/tracks/90d15bc9-7eb9-4f23-a8f3-270e21549699.png" width="45" style="max-width: 100%;"></a></td>
-<td><a href="https://skillsforall.com/en/career-path/cybersecurity?courseLang=fr-BR" rel="nofollow"><img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="80" style="max-width: 100%;"></a></td>
+<td><a href="https://skillsforall.com/en/career-path/cybersecurity?courseLang=fr-BR" rel="nofollow"><img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="45" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
