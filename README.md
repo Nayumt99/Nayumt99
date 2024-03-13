@@ -10,7 +10,6 @@
 <thead>
 <tr>
 <th>IDE</th>
-<th>IDE</th>
 <th>Linguagens</th>
 <th>Marcação</th>
 <th>Banco de Dados</th>
