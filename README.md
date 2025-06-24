@@ -94,6 +94,7 @@
   <img src="https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n" width="45">
   <img src="https://assets.dio.me/mXe9Ce9ajHOrzggSjtSD7fubZXjG3zEZs_X8r9xJ9jg/f:webp/h:120/q:80/L3RyYWNrcy9mODRlOWQxZS04ZWQ1LTQ2ZjctYjlhMC1kY2Y1YTAzOTZmMzMucG5n" width="45">
   <img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" width="45">
+   <img src="https://assets.dio.me/Ypa0a_wYeZqQ_cKqtU1uiwbYknySjeGRUmwnQ8gVHqg/f:webp/h:120/q:80/L3RyYWNrcy9iZjZjOWIwYS0wY2FjLTRkMjYtYTIzNy00NWVmODlkZDgwYjIucG5n" width="45">
   <img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" width="45">
 </p>
 
