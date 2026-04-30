@@ -1,6 +1,6 @@
 # Olá, eu sou o Nayum! 👋
 
-### QA Specialist | Test Strategy | Specialist in Agile Testing
+### QA Specialist | Test Strategy | QA Architect | Specialist in Agile Testing 
 
 Sou um profissional de Qualidade de Software focado em **Estratégia de Testes** e **Arquitetura de Suporte**. Minha atuação é pautada pela análise rigorosa de requisitos e pela estruturação de soluções que otimizam o workflow de QA e facilitam a viabilização de ambientes complexos.
 
