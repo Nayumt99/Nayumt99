@@ -72,16 +72,6 @@
 
 </p>
 
-## 📘 Aprendendo  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="30" title="NodeJs">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="30" title="JUnit5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" width="30" title="Cypress">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="30" title="Playwright">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="30" title="Pytest">  
-</p>
-
 ## 🎓 Bootcamps Concluídos  
 <p align="center">
   <img src="https://hermes.dio.me/tracks/b092559f-ec20-4401-83e5-d98b6278b7b1.png" width="40">
@@ -123,6 +113,10 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGuzAGaO-qq-Q/profile-treasury-document-images_480/profile-treasury-document-images_480/1/1727977997368?e=1748476800&v=beta&t=3konlDugb1HPjEEaLqN8x7-5hC3VbqWExdRCFJz1jO8" width="40">
   <img src="https://images.credly.com/images/df29b119-1643-44db-8397-82aa4eea8ade/blob" width="40">
   <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="40">
+  <img src="https://bstqb.qa/img/selos/s-ctfl.png" width="40">
+  <img src="https://bstqb.qa/img/selos/s-ctfl-at.png" width="40">
+
+
  
 
 ---
