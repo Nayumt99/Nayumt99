@@ -1,47 +1,119 @@
 # Olá, eu sou o Nayum! 👋
 
-### QA Specialist | Test Strategy | QA Architect | Specialist in Agile Testing 
+QA Engineer | Quality Assurance | Testes Funcionais | Automação em evolução com Cypress, Playwright e Postman
 
-Sou um profissional de Qualidade de Software focado em **Estratégia de Testes** e **Arquitetura de Suporte**. Minha atuação é pautada pela análise rigorosa de requisitos e pela estruturação de soluções que otimizam o workflow de QA e facilitam a viabilização de ambientes complexos.
+Profissional de Quality Assurance com experiência em testes funcionais, homologação e validação de sistemas corporativos em ambientes ágeis.
 
-Possuo sólido conhecimento em metodologias ágeis e certificações internacionais que validam minha expertise em garantir a entrega de software com alto valor agregado e eficiência operacional.
+Atuo com planejamento e execução de testes, elaboração de cenários e casos de teste, gestão de defeitos, validação de regras de negócio e suporte à qualidade contínua das entregas.
 
----
-
-## 🛠️ Expertise Técnica
-
-| Categoria | Especialidades |
-| :--- | :--- |
-| **Estratégia & Processos** | Agile Testing, Scrum, Kanban, BDD (Gherkin), Gestão de Defeitos |
-| **Arquitetura de Suporte** | Gestão de Ambientes de Teste, Viabilização de Acessos, Padronização de Processos |
-| **Testing Tools** | Postman (API), Documentação Técnica, Casos de Teste, Critérios de Aceite |
-| **Em Evolução (Tech)** | Automação de Testes (Cypress/JavaScript), Azure Cloud (AZ-900) |
+Atualmente desenvolvo estudos e projetos práticos voltados à automação de testes utilizando Cypress, Playwright e Postman, buscando aprofundar conhecimentos em automação, testes de API, CI/CD e qualidade contínua de software.
 
 ---
 
-## 🏅 Certificações Internacionais
-*Central de comprovação técnica: [Repositório Certifications](https://github.com/Nayumt99/Certifications)*
+## Tecnologias e Ferramentas
 
-- **ISTQB CTFL** (Foundation Level)
-- **ISTQB CTFL-AT** (Agile Tester)
-- **AICS® ASTFC** (Software Testing Fundamentals)
-- **SFC™** (Scrum Fundamentals)
-- **KEPC™** (Kanban Essentials)
+### Quality Assurance
+- Testes Funcionais
+- Testes Regressivos
+- Homologação
+- Gestão de Defeitos
+- Planejamento de Testes
+- Estratégia de Testes
+- Testes de API
+- SDLC
+- BDD
+
+### Automação de Testes
+- Cypress
+- Playwright
+- Postman
+- GitHub Actions
+- GitLab CI/CD
+
+### Linguagens e Banco de Dados
+- Python
+- JavaScript
+- Golang
+- SQL
+- PostgreSQL
+
+### Ferramentas e Metodologias
+- Jira
+- Confluence
+- Octane
+- Datadog
+- ServiceNow
+- Linux
+- Scrum
+- Kanban
+- XP
 
 ---
 
-## 🚀 Projetos e Foco de Atuação
+## Certificações
 
-*   **Arquitetura de Suporte ao Teste:** Estruturação de soluções para viabilização de ambientes e otimização de workflow de QA. Atuação direta na facilitação do acesso a sistemas complexos e na padronização de processos operacionais, garantindo a redução de setups manuais e maior fluidez na execução dos ciclos de teste.
-*   **Estratégia Ágil:** Modelagem de cenários de teste baseados em BDD para garantir a cobertura de regras de negócio e critérios de aceite em Sprints.
-*   **API Testing:** Validação de endpoints, contratos e fluxos de integração utilizando Postman.
+- CTFL — Certified Tester Foundation Level
+- CTFL-AT — Agile Tester
+- ASTFC — Accredited Software Testing Fundamentals Certification
+- SFPC — Scrum Foundation Professional Certification
+- KEPC - Kanban Essentials 
+
+---
+
+## Projetos em Destaque
+
+### QA Automation Framework
+Framework de automação de testes E2E utilizando Playwright com foco em:
+- Page Object Model (POM)
+- Organização escalável
+- Testes funcionais
+- Relatórios automatizados
+- Integração contínua
+
+### Cypress Automation Studies
+Projeto de estudos práticos utilizando Cypress para:
+- Automação E2E
+- Fluxos críticos
+- Validações funcionais
+- Estruturação de testes automatizados
+
+### API Testing with Postman
+Coleções e cenários de testes de API utilizando:
+- Postman
+- Validação de respostas HTTP
+- Testes de integração
+- Automação com Newman
 
 ---
 
-## 📫 Vamos nos conectar?
+## Objetivos Atuais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nayumteixeira)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayumt99@gmail.com)
+Atualmente focado em evolução técnica nas áreas de:
+- Automação de Testes
+- Quality Engineering
+- Testes de API
+- CI/CD
+- Estratégias de QA
+- Playwright
+- Cypress
 
 ---
+
+## Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayumt99&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayumt99&layout=compact)
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/nayumteixeira/
+- GitHub: https://github.com/Nayumt99
+- E-mail: nayumt99@gmail.com
+
 *"A qualidade não é um erro, é o resultado de um esforço inteligente."*
+
+
+  
