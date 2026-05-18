@@ -1,6 +1,6 @@
-# Olá, eu sou o Nayum! 👋
+# 👋 Olá, eu sou Nayum 
 
-QA Engineer | Quality Assurance | Testes Funcionais | Automação em evolução com Cypress, Playwright e Postman
+💻 QA Engineer | Quality Assurance | Testes Funcionais | Automação em evolução com Cypress, Playwright e Postman
 
 Profissional de Quality Assurance com experiência em testes funcionais, homologação e validação de sistemas corporativos em ambientes ágeis.
 
@@ -10,9 +10,9 @@ Atualmente desenvolvo estudos e projetos práticos voltados à automação de te
 
 ---
 
-## Tecnologias e Ferramentas
+# 🛠 Tecnologias e Ferramentas
 
-### Quality Assurance
+## 🔎 Quality Assurance
 - Testes Funcionais
 - Testes Regressivos
 - Homologação
@@ -23,21 +23,21 @@ Atualmente desenvolvo estudos e projetos práticos voltados à automação de te
 - SDLC
 - BDD
 
-### Automação de Testes
+## 🤖 Automação de Testes
 - Cypress
 - Playwright
 - Postman
 - GitHub Actions
 - GitLab CI/CD
 
-### Linguagens e Banco de Dados
+## 💻 Linguagens e Banco de Dados
 - Python
 - JavaScript
 - Golang
 - SQL
 - PostgreSQL
 
-### Ferramentas e Metodologias
+## ⚙️ Ferramentas e Metodologias
 - Jira
 - Confluence
 - Octane
@@ -50,34 +50,35 @@ Atualmente desenvolvo estudos e projetos práticos voltados à automação de te
 
 ---
 
-## Certificações
+# 📜 Certificações
 
 - CTFL — Certified Tester Foundation Level
 - CTFL-AT — Agile Tester
 - ASTFC — Accredited Software Testing Fundamentals Certification
 - SFPC — Scrum Foundation Professional Certification
-- KEPC - Kanban Essentials 
+- KEPC - Kanban Essentials
+
 
 ---
 
-## Projetos em Destaque
+# 🚀 Estudos e Projetos em Evolução
 
-### QA Automation Framework
-Framework de automação de testes E2E utilizando Playwright com foco em:
+## 🎯 Estudos de Framework QA com Playwright
+Framework de automação E2E utilizando Playwright com foco em:
 - Page Object Model (POM)
-- Organização escalável
+- Estrutura escalável
 - Testes funcionais
 - Relatórios automatizados
 - Integração contínua
 
-### Cypress Automation Studies
+## 🧪 Cypress Automation Studies
 Projeto de estudos práticos utilizando Cypress para:
 - Automação E2E
 - Fluxos críticos
 - Validações funcionais
 - Estruturação de testes automatizados
 
-### API Testing with Postman
+## 🔗 API Testing with Postman
 Coleções e cenários de testes de API utilizando:
 - Postman
 - Validação de respostas HTTP
@@ -86,7 +87,7 @@ Coleções e cenários de testes de API utilizando:
 
 ---
 
-## Objetivos Atuais
+# 📚 Objetivos Atuais
 
 Atualmente focado em evolução técnica nas áreas de:
 - Automação de Testes
@@ -99,7 +100,7 @@ Atualmente focado em evolução técnica nas áreas de:
 
 ---
 
-## Estatísticas GitHub
+# 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayumt99&show_icons=true)
 
@@ -107,13 +108,10 @@ Atualmente focado em evolução técnica nas áreas de:
 
 ---
 
-## Contato
+# 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/nayumteixeira/
 - GitHub: https://github.com/Nayumt99
 - E-mail: nayumt99@gmail.com
 
-*"A qualidade não é um erro, é o resultado de um esforço inteligente."*
-
-
-  
+  *"A qualidade não é um erro, é o resultado de um esforço inteligente."*
